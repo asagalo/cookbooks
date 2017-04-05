@@ -1,0 +1,6 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'chef_nginx', '~> 6.0.0'
+cookbook 'poise-python', '~> 1.5.1'
+cookbook 'deployer', '~> 0.1.1'
+cookbook 'application', '~> 5.1.0'
